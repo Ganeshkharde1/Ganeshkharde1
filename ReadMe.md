@@ -1,5 +1,11 @@
 # 💫 About Me:
 Artificial Intelligence🚀
+Machine Learning
+Computer Vision
+Deep Learning
+Flask
+LLMs
+Generative AI
 
 
 ## 🌐 Socials:
