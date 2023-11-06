@@ -1,17 +1,17 @@
 # 💫 About Me:
-Artificial Intelligence🚀
+* Artificial Intelligence🚀
 
-Machine Learning
+* Machine Learning
 
-Computer Vision
+* Computer Vision
 
-Deep Learning
+* Deep Learning
 
-Flask
+* Flask
 
-LLMs
+* LLMs
 
-Generative AI
+* Generative AI
 
 
 ## 🌐 Socials:
