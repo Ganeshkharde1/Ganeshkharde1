@@ -18,6 +18,8 @@ Generative AI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshkharde) 
 
 
+[![An image of @ganeshkharde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ganeshkharde)](https://holopin.io/@ganeshkharde)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ganeshkharde1&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
