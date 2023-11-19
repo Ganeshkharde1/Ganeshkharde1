@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&random=false&width=435&lines=Hi+Welcome+to+my+Account..)](https://git.io/typing-svg)
+
 # Hi, I'm Ganesh! 👋
 # 💫 About Me:
 * Artificial Intelligence🚀
