@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&random=false&width=435&lines=Hi+Welcome+to+my+Account..)](https://git.io/typing-svg)
-# Hi, I'm Ganesh! 👋
+# Hi, I'm Ganesh! 👋  
+
+<img src='https://www.gstatic.com/devrel-devsite/prod/v50a9748f336f0601961fb23638b43fbbc8f87f50f5f0aa83e2751247a72fbd3b/developers/images/lockup-new.svg' href="https://developers.google.com/profile/u/ganeshkharde1" style="width: 400px;"/>
+
+## Google Developer Students Clubs Lead
+
 # 💫 About Me:
 * Artificial Intelligence🚀
 * Machine Learning
@@ -10,8 +15,19 @@
 * Generative AI
 
 
+
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshkharde)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ganeshkharde80)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganesh_kharde_official)
+
+
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 
 
 [![An image of @ganeshkharde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ganeshkharde)](https://holopin.io/@ganeshkharde)
@@ -30,7 +46,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ganeshkharde1)](https://git.io/streak-stats) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkharde1&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganeshkharde1)
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ganeshkharde1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ganeshkharde1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
