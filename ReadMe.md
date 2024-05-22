@@ -28,9 +28,9 @@
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
-
-<a href="https://app.daily.dev/ganeshkharde1"><img src="https://api.daily.dev/devcards/v2/CO6sPLP2aixSQxC8e5tMQ.png?type=wide&r=feg" width="652" alt="Ganesh kharde's Dev Card" align="center"/></a>
-
+<p align="center">
+<a href="https://app.daily.dev/ganeshkharde1"><img src="https://api.daily.dev/devcards/v2/CO6sPLP2aixSQxC8e5tMQ.png?type=default&r=34k" width="356" alt="Ganesh kharde's Dev Card"/></a>
+</p>
 [![An image of @ganeshkharde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ganeshkharde)](https://holopin.io/@ganeshkharde)
 
 ## 🏆 GitHub Trophies
