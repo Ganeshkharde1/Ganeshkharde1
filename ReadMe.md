@@ -1,18 +1,18 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F4&random=false&width=435&lines=Hi+Welcome+to+my+Account..)](https://git.io/typing-svg)
 # Hi, I'm Ganesh! 👋  
 
-<img src='https://www.gstatic.com/devrel-devsite/prod/v50a9748f336f0601961fb23638b43fbbc8f87f50f5f0aa83e2751247a72fbd3b/developers/images/lockup-new.svg' href="https://developers.google.com/profile/u/ganeshkharde1" style="width: 400px;"/>
+📙 AI Engineer by passion
 
-## Google Developer Students Clubs Lead
+🏆 Google Developer Students Clubs Lead
 
-# 💫 About Me:
-* Artificial Intelligence🚀
-* Machine Learning
-* Computer Vision
-* Deep Learning
-* Flask
-* LLMs
-* Generative AI
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, LLMs, and Deep Learning
+
+🧑💻 Building smart end-to-end agents and apps with GenAI, and modern ML toolchains
+
+💡 Explorer | Open Source Contributor | Tech Mentor
+
+🚩 Mission: Democratize AI for everyone—building solutions that matter.
 
 
 
@@ -28,9 +28,9 @@
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://app.daily.dev/ganeshkharde1"><img src="https://api.daily.dev/devcards/v2/CO6sPLP2aixSQxC8e5tMQ.png?type=default&r=34k" width="356" alt="Ganesh kharde's Dev Card"/></a>
-</p>
+</p> -->
 
 [![An image of @ganeshkharde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ganeshkharde)](https://holopin.io/@ganeshkharde)
 
